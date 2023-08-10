@@ -74,7 +74,7 @@ nav a:hover {
     background-color: #46915f;
 }
 main {
-    min-width: 400px;
+    min-width: 500px;
     max-width: 900px;
     color: black;
     background-color: var(--cor4);
