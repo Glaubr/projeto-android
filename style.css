@@ -11,7 +11,7 @@
 }
 :root {
     --cor0: #272727;
-    --cor1: #e59595;
+    --cor1: #95e5b7;
     --cor2: #4ac47d;
     --cor3: #038553;
     --cor4: #f5fff9;
@@ -61,7 +61,6 @@ nav {
     max-width: 600px;
     display: flex;
     justify-content: space-around;
-    align-items: center;
     margin: auto;
 }
 nav a {
@@ -74,7 +73,7 @@ nav a:hover {
     background-color: #46915f;
 }
 main {
-    min-width: 500px;
+    min-width: 400px;
     max-width: 900px;
     color: black;
     background-color: var(--cor4);
